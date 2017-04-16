@@ -1,7 +1,7 @@
-siteTitle = "Gatstrap"
-siteDescr = "Gatsby starter for bootstrap a blog"
-siteAuthor = "jaxx2104"
+siteTitle = "Jenessa White"
+siteDescr = "Jenessa White's personal website that house a short bio, her skills, resume, and some of Jenessa's past work."
+siteAuthor = "Jenessa White"
 
-twitterId = "jaxx2104"
+twitterId = "jnessview"
 googleAnalyticsId = ""
 linkPrefix = "/gatsby-starter-bootstrap"
